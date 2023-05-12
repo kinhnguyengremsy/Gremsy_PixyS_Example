@@ -32,6 +32,7 @@
 ## Use for update new sony camera sdk
 - add user functions  to library CameraDevice
 + File CameraDevice.h 
+
     std::int64_t get_device_handle() const;
 
 + File CameraDevice.cpp
@@ -43,6 +44,7 @@
 ## BUILD
 
 cd example01_payload_control
-mkdir build && cd build
+mkdir build
+cd build
 cmake -DCMAKE_BUILD_TYPE=Release ..
 make
