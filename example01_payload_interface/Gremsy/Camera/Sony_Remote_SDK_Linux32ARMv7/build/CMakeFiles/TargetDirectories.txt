@@ -1,0 +1,7 @@
+/home/gremsy/pixys-SDK/New_GimbalSDK_CameraSDK_testing/Gremsy/Camera/Sony_Remote_SDK_Linux32ARMv7/build/CMakeFiles/install/strip.dir
+/home/gremsy/pixys-SDK/New_GimbalSDK_CameraSDK_testing/Gremsy/Camera/Sony_Remote_SDK_Linux32ARMv7/build/CMakeFiles/install.dir
+/home/gremsy/pixys-SDK/New_GimbalSDK_CameraSDK_testing/Gremsy/Camera/Sony_Remote_SDK_Linux32ARMv7/build/CMakeFiles/list_install_components.dir
+/home/gremsy/pixys-SDK/New_GimbalSDK_CameraSDK_testing/Gremsy/Camera/Sony_Remote_SDK_Linux32ARMv7/build/CMakeFiles/install/local.dir
+/home/gremsy/pixys-SDK/New_GimbalSDK_CameraSDK_testing/Gremsy/Camera/Sony_Remote_SDK_Linux32ARMv7/build/CMakeFiles/rebuild_cache.dir
+/home/gremsy/pixys-SDK/New_GimbalSDK_CameraSDK_testing/Gremsy/Camera/Sony_Remote_SDK_Linux32ARMv7/build/CMakeFiles/edit_cache.dir
+/home/gremsy/pixys-SDK/New_GimbalSDK_CameraSDK_testing/Gremsy/Camera/Sony_Remote_SDK_Linux32ARMv7/build/CMakeFiles/RemoteCli.dir
