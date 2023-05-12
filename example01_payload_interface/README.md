@@ -36,6 +36,7 @@
     std::int64_t get_device_handle() const;
 
 + File CameraDevice.cpp
+
     std::int64_t CameraDevice::get_device_handle() const
     {
         return m_device_handle;
