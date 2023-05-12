@@ -45,7 +45,6 @@
 ## BUILD
 
     cd example01_payload_control
-    mkdir build
-    cd build
+    mkdir build && cd build
     cmake -DCMAKE_BUILD_TYPE=Release ..
     make
